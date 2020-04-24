@@ -1,4 +1,4 @@
-name: whwtimeseries
+name: whwwaterdata
 channels:  
   - conda-forge
   - defaults

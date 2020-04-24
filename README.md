@@ -7,7 +7,7 @@ Tuesday tutorials: data access, time series and spatial data analyses
 ### WHW19 tutorials
 - [Data access and time-series statistics cyberseminar](https://github.com/waterhackweek/tsdata_access)
 - [Gridded climate data(sets) cyberseminar](https://github.com/waterhackweek/gridded_data)
-- OGH?
+- [Observatory for Gridded Hydrometeorology (OGH)?](https://github.com/waterhackweek/OGH_group_tutorial) See also [this OGH presentation.](https://github.com/Freshwater-Initiative/OGH_group_tutorial/blob/master/intro_to_ogh.pdf)
 
 ### Other resources
 - GHW19 vector tools. https://geohackweek.github.io/vector/

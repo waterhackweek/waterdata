@@ -1,0 +1,23 @@
+name: whwtimeseries
+channels:  
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - ipython
+  - ipykernel
+  - requests
+  - geopandas
+  - descartes
+  - geojson
+  - rasterio
+  - netcdf4
+  - xarray
+  - dask
+  - ulmo
+  - owslib
+  - matplotlib
+  - seaborn
+  - cartopy
+  - folium
+  - xlrd

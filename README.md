@@ -1,6 +1,11 @@
 # waterdata
 Tuesday tutorials: data access, time series and spatial data analyses
 
+### These spatial data analyis notebooks cover:
+1. indexing/selecting in multi-dimensional arrays (numpy)
+2. labeled n-dimensional arrays (xarray)
+3. accessing gridded DayMet data, and visualizing gridded data (xarray, matplotlib, cartopy? rioxarray?)
+4. computing statistics/aggregation (xarray)
 
 ## Materials to draw from
 
@@ -16,3 +21,10 @@ Tuesday tutorials: data access, time series and spatial data analyses
 
 ## Yakima watershed focus: Upper Yakima (HUC8 code: 17030001)
 For a quick and easy exploration of this watershed (or any other HUC in the lower 48), you can go to https://modelmywatershed.org, an application I've been involved in. Type "upper yakima" in the text box in the upper right, select the HUC 8 Upper Yakima entry, then click on the Select button that comes up. You can add geospatial context via the Layers box (streams/grids/boundaries), and get quick view of the distribution of general watershed properties (precip/air temp/elev/slope/stream order) on the column to the left.
+
+## Setting up the conda environment
+
+```bash
+conda env create -f environment.yml
+conda activate whwwaterdata; ipython kernel install --user --name whwwaterdata
+```

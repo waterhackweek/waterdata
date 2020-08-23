@@ -16,6 +16,7 @@ dependencies:
   - netcdf4
   - xarray
   - rioxarray
+  - regionmask
   - dask
   - owslib
   - xlrd

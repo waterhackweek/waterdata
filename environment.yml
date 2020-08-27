@@ -9,6 +9,7 @@ dependencies:
   - nb_conda_kernels
   - pip
   - requests
+  - pandas<1.1
   - geopandas
   - descartes
   - geojson
@@ -28,7 +29,6 @@ dependencies:
   - folium
   - contextily
   - ulmo
-  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
   - hydrodata
-#   - pip:
-#     - streamstats
+  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
+

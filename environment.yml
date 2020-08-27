@@ -20,13 +20,15 @@ dependencies:
   - dask
   - owslib
   - xlrd
-  - boto3 # why wasn't it already in this env file? Oversight?
+  - s3fs
+  - boto3
   - matplotlib
   - seaborn
   - cartopy
   - folium
   - contextily
   - ulmo
+  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
   - hydrodata
 #   - pip:
 #     - streamstats

@@ -9,6 +9,7 @@ dependencies:
   - nb_conda_kernels
   - pip
   - requests
+  - pandas<1.1
   - geopandas
   - descartes
   - geojson
@@ -20,7 +21,8 @@ dependencies:
   - dask
   - owslib
   - xlrd
-  - boto3 # why wasn't it already in this env file? Oversight?
+  - s3fs
+  - boto3
   - matplotlib
   - seaborn
   - cartopy
@@ -28,5 +30,5 @@ dependencies:
   - contextily
   - ulmo
   - hydrodata
-#   - pip:
-#     - streamstats
+  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
+

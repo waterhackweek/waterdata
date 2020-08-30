@@ -1,0 +1,34 @@
+name: whwwaterdata
+channels:  
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipython
+  - ipykernel
+  - nb_conda_kernels
+  - pip
+  - requests
+  - pandas<1.1
+  - geopandas
+  - descartes
+  - geojson
+  - rasterio
+  - netcdf4
+  - xarray
+  - rioxarray
+  - regionmask
+  - dask
+  - owslib
+  - xlrd
+  - s3fs
+  - boto3
+  - matplotlib
+  - seaborn
+  - cartopy
+  - folium
+  - contextily
+  - ulmo
+  - hydrodata
+  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
+

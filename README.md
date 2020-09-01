@@ -4,9 +4,11 @@
 
 1. Introduction: Water data, Python and You (presentation) - Bart Nijssen
 2. Access and analyze point time series data ([notebook](point_data_tutorial.ipynb)) - Yifan Cheng
-3. Access and analyze raster and multi-dimensional gridded data 
-  (notebooks: [0](gridded_data_tutorial_0.ipynb) - [1](gridded_data_tutorial_1.ipynb) - 
-  [2](gridded_data_tutorial_2.ipynb) - [3](gridded_data_tutorial_3.ipynb)) - Steven Pestana
+3. Access and analyze raster and multi-dimensional gridded data - Steven Pestana
+    - Notebook 0: [NumPy and the ndarray](gridded_data_tutorial_0.ipynb)
+    - Notebook 1: [Introduction to xarray](gridded_data_tutorial_1.ipynb)
+    - Notebook 2: [Daymet data access](gridded_data_tutorial_2.ipynb)
+    - Notebook 3: [Investigating SWE at Mt. Rainier with Daymet](gridded_data_tutorial_3.ipynb)
 4. Water data mash up ([notebook](mashup_waterbudget.ipynb)) - Emilio Mayorga
 
 

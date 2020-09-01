@@ -2,7 +2,7 @@
 
 ## Tutorials
 
-1. Introduction: Water data, Python and You (presentation) - Bart Nijssen
+1. Introduction: Water data, Python and You ([presentation](WHW2020_Waterdata_python_you_intro.pdf)) - Bart Nijssen
 2. Access and analyze point time series data ([notebook](point_data_tutorial.ipynb)) - Yifan Cheng
 3. Access and analyze raster and multi-dimensional gridded data - Steven Pestana
     - Notebook 0: [NumPy and the ndarray](gridded_data_tutorial_0.ipynb)

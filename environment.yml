@@ -30,5 +30,4 @@ dependencies:
   - contextily
   - ulmo
   - hydrodata
-  # add metpy? landlab, intake, holoviz, a DEM flowdir package, etc?
-
+  # add a DEM flowdir package, etc?
